@@ -7,7 +7,8 @@
     "start:01": "javac ./01-hola-mundo/HolaMundo.java && java --class-path ./01-hola-mundo HolaMundo",
     "start:02": "javac ./02-POO/Figuras.java && java --class-path ./02-POO Figuras",
     "start:03": "javac ./03-Variables/Variable.java && java --class-path ./03-Variables Variable",
-    "start:04": "javac ./04-Tipos-de-datos/Primitivos.java && java --class-path ./04-Tipos-de-datos Primitivos"
+    "start:04": "javac ./04-Tipos-de-datos/Primitivos.java && java --class-path ./04-Tipos-de-datos Primitivos",
+    "start:05": "javac ./05-Literales/Literales.java && java --class-path ./05-Literales Literales"
   },
   "keywords": [],
   "author": "",
