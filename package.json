@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start:01": "javac ./01-hola-mundo/HolaMundo.java && java --class-path ./01-hola-mundo HolaMundo",
-    "start:02": "javac ./02-POO/Figuras.java && java --class-path ./02-POO Figuras"
+    "start:02": "javac ./02-POO/Figuras.java && java --class-path ./02-POO Figuras",
+    "start:03": "javac ./03-Variables/Variable.java && java --class-path ./03-Variables Variable"
   },
   "keywords": [],
   "author": "",
