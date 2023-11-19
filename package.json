@@ -8,7 +8,9 @@
     "start:02": "javac ./02-POO/Figuras.java && java --class-path ./02-POO Figuras",
     "start:03": "javac ./03-Variables/Variable.java && java --class-path ./03-Variables Variable",
     "start:04": "javac ./04-Tipos-de-datos/Primitivos.java && java --class-path ./04-Tipos-de-datos Primitivos",
-    "start:05": "javac ./05-Literales/Literales.java && java --class-path ./05-Literales Literales"
+    "start:05": "javac ./05-Literales/Literales.java && java --class-path ./05-Literales Literales",
+    "start:06": "javac ./06-Expresiones/Expresiones.java && java --class-path ./06-Expresiones Expresiones",
+    "start:07": "javac ./07-Sentencias/Sentencias.java && java --class-path ./07-Sentencias Sentencias"
   },
   "keywords": [],
   "author": "",
