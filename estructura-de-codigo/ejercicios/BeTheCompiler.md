@@ -36,14 +36,13 @@ Nuestro trabajo es hacer de compilador y determinar si cada uno de estos archivo
 - C
 	```java
 	class Exercise1b {
-		public static void main(String[] args) {
-			int x = 5;
-			while ( x > 1 ) {
-				x = x - 1;
-				if ( x < 3 ) {
-					System.out.println("small x");
-				}
+		int x = 5;
+		while ( x > 1 ) {
+			x = x - 1;
+			if ( x < 3 ) {
+				System.out.println("small x");
 			}
 		}
 	}
 	```
+	_Corrección: El fragmento no estaba dentro de un método `main`._
